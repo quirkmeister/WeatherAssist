@@ -1,0 +1,3 @@
+Air Quality : Poor
+Wind : NE 6 km/h
+Temperature : 22°
